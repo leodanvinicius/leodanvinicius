@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente eu nao trabalho
+- 🔭 Atualmente desempregado
 - 🌱 Estudando JS, Node e React
 -  😄 Pronouns: ele/dele
 
