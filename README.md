@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente desempregado- 🌱 Estudando JS, Node e React
+- 🔭 Atualmente network security
 
 
 <div>
