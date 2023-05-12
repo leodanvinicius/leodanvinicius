@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Atualmente desempregado
-- 🌱 Estudando JS, Node e React
--  😄 Pronouns: ele/dele
+- 🔭 Atualmente desempregado- 🌱 Estudando JS, Node e React
+
 
 <div>
   <a href="https://www.linkedin.com/in/leodan-vinicius-morais-oliveira-040916173/">
